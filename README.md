@@ -1,3 +1,7 @@
+# [OpenJLC](https://github.com/canmi21/openjlc) Rev2, RIIR!
+
+该 Python 版本已经弃用，请移步至新版本, 以下为存档信息
+
 # Open-JLC
 Automatically convert mainstream Gerber files to JLC Gerber format
 
